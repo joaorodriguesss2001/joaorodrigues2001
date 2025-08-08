@@ -1,4 +1,4 @@
-# Olá, eu sou o João Rodrigues! .👋
+# Olá, eu sou o João Rodrigues! 👋
 
 
 ---
